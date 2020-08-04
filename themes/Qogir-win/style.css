@@ -1,0 +1,42 @@
+.box-bin .window-button {
+    width: 2.1em;
+    height: 2.1em;
+    min-width: 27px;
+    min-height: 27px;
+}
+
+.minimize {
+    background-image: url("minimize.svg");
+}
+
+.minimize:hover {
+    background-image: url("minimize-hover.svg");
+}
+
+.minimize:active {
+    background-image: url("minimize-active.svg");
+}
+
+.maximize {
+    background-image: url("restore.svg");
+}
+
+.maximize:hover {
+    background-image: url("restore-hover.svg");
+}
+
+.maximize:active {
+    background-image: url("restore-active.svg");
+}
+
+.close {
+    background-image: url("close.svg");
+}
+
+.close:hover {
+    background-image: url("close-hover.svg");
+}
+
+.close:active {
+    background-image: url("close-active.svg");
+}
