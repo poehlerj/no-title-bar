@@ -7,11 +7,11 @@ const Main = imports.ui.main;
 const Mainloop = imports.mainloop;
 const Meta = imports.gi.Meta;
 const St = imports.gi.St;
-const Tweener = imports.ui.tweener;
 
 const ExtensionUtils = imports.misc.extensionUtils;
 const Me = ExtensionUtils.getCurrentExtension();
 const Convenience = Me.imports.convenience;
+const Tweener = Me.imports.tweener;
 const Utils = Me.imports.utils;
 const WindowState = Me.imports.decoration.WindowState;
 
