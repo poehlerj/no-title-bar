@@ -4,7 +4,8 @@
   "description": "No Title Bar removes the title bar from non-GTK applications and moves the window title and buttons to the top panel.\n\nTitlebars are also hidden for Wayland-native clients that don't use CSD. Some of the options may be incompatible with this. For issues on Wayland please visit github!\n\nThis is a fork of https://extensions.gnome.org/extension/1267/no-title-bar/ with added compatibility for Gnome 3.32.\n\nThis extension depends on some Xorg utilities. To install them:\n\n\u26ab Debian/Ubuntu: apt install x11-utils\n\u26ab Fedora/RHEL: dnf install xorg-x11-utils\n\u26ab Arch: pacman -S xorg-xprop",
   "url": "https://github.com/poehlerj/no-title-bar",
   "shell-version": [
-      "3.38"
+      "3.38",
+      "40"
   ],
   "version": 11
 }
