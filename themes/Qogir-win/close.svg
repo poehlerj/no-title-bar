@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="28"
+   height="28"
+   viewBox="0 0 28 28"
+   version="1.1"
+   id="svg672"
+   inkscape:version="1.0 (1.0+r73+1)"
+   sodipodi:docname="close.svg">
+  <g
+     inkscape:groupmode="layer"
+     id="asset">
+    <g
+       id="close"
+       style="opacity:0.8">
+      <rect
+         style="opacity:0"
+         id="rect661"
+         height="28"
+         width="28"
+         y="0"
+         x="0" />
+      <path
+         sodipodi:nodetypes="ccccccccccccc"
+         style="fill:#ffffff"
+         id="path663"
+         d="M 10.207,9.5 9.5,10.207 13.793,14.5 9.5,18.793 10.207,19.5 14.5,15.207 18.793,19.5 19.5,18.793 15.207,14.5 19.5,10.207 18.793,9.5 14.5,13.793 Z" />
+    </g>
+  </g>
+</svg>
